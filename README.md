@@ -15,7 +15,7 @@ Android App for Matrix Calculation
    
 3) Screenshots
    
-![Image of your image](matricalc.png)
+![Image of your image](matrixcalc.png)
 
 5) Installation
    
