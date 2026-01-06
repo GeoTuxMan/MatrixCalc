@@ -1,5 +1,5 @@
 # MatrixCalc
-Android App for Matrix Calculation
+React Native App for Matrix Calculation
 
 1) Features
    
